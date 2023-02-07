@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "e71-menu-sb2-template",
+    "version": "1.0.0",
+    "description": "Sb2 Bootstrap Entando Menu template",
+    "type": "bundle"
+}

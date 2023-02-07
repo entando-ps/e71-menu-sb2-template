@@ -1,0 +1,10 @@
+descriptorVersion: v5
+name: sb2_vertical_menu_example
+type: widget
+titles:
+  en: sb2 Vertical navbar example
+  it: sb2 Navbar verticale esempio
+group: free
+parentName: sb2_vertical_navbar
+paramsDefaults:
+  navSpec: code(sb2_dashboard)+code(sb2_test)+code(sb2_test2).subtree(1)
