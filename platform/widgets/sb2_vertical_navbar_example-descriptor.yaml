@@ -7,4 +7,4 @@ titles:
 group: free
 parentName: sb2_vertical_navbar
 paramsDefaults:
-  navSpec: code(sb2_dashboard)+code(sb2_test)+code(sb2_test2).subtree(1)
+  navSpec: code(sb2_dashboard_c9b2d95d)+code(sb2_test_c9b2d95d)+code(sb2_test2_c9b2d95d).subtree(1)
